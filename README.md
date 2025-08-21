@@ -3,7 +3,7 @@ as well as bring more eyes towards it. I may push additional fixes myself, or do
 
 Crypto++, free C++ class library of cryptographic schemes. Original repository (https://github.com/weidai11/cryptopp) became abandonware.
 
-# Confirmed CVE fixes not found in original Crypto++ repository
+# Confirmed CVE fixes not (or only partially) found in original Crypto++ repository
 - CVE-2024-28285
 - CVE-2023-50981
 Relevant patches:
