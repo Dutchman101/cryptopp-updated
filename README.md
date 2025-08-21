@@ -3,21 +3,23 @@ as well as bring more eyes towards it. I may push additional fixes myself, or do
 
 Crypto++, free C++ class library of cryptographic schemes. Original repository (https://github.com/weidai11/cryptopp) became abandonware.
 
-# Confirmed-fixed CVE's that, in the original Crypto++ repository, are either: not fixed due to abandonware, not complete or ideal, or not (fully) noted as a patch for said CVE:
-- CVE-2024-28285
+# Additional CVE patches or enrichment in "crypopp-updated"
+Confirmed-fixed CVE's that, in the original Crypto++ repository, are either: not fixed due to abandonware, not complete or ideal (partially fixed), or not (fully) noted as a patch for said CVE:
+
+- CVE-2024-28285 - Fully fixed.
 Relevant patches:
 
 https://github.com/Dutchman101/cryptopp-updated/commit/daa6487d9145511473467b3ef6b2a0ff52158fcc
 
 
-- CVE-2023-50981
+- CVE-2023-50981 - Fully fixed.
 Relevant patches:
 
 https://github.com/Dutchman101/cryptopp-updated/commit/9aa07aebbdc62461c3ac32f958d7c3ab89ff6f73
 
 https://github.com/Dutchman101/cryptopp-updated/commit/1d029444902d1992b1899644f6208de9ddfc660d
 
-- CVE-2023-50980
+- CVE-2023-50980 - Fully fixed.
 Relevant patches:
 
 https://github.com/Dutchman101/cryptopp-updated/commit/641ae35258de397774744b8b17ef6632c3fa48b3
