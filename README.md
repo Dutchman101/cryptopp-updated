@@ -1,7 +1,8 @@
-### Crypto++ Forking
+Updated version of cryptopp with important fixes thanks to yankov-pt and his contributors. Forking it myself to safekeep it,
+as well as bring more eyes towards it. I may push additional fixes myself, or do project management if additional contributors arrive.
 
-Since the original repository seems somewhat dead, we have forked Crypto++ and applied all pending PRs. We're currently
-going through the issue list to address them.
+Crypto++, free C++ class library of cryptographic schemes. Original repository (https://github.com/weidai11/cryptopp) became abandonware.
+
 
 # Crypto++ Code Examples
 
