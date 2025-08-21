@@ -14,6 +14,7 @@ https://github.com/Dutchman101/cryptopp-updated/commit/1d029444902d1992b1899644f
 
 - CVE-2023-50980
 Relevant patches:
+
 https://github.com/Dutchman101/cryptopp-updated/commit/641ae35258de397774744b8b17ef6632c3fa48b3
 
 https://github.com/Dutchman101/cryptopp-updated/commit/eb383b8e1622c07da2d5d6599a8b0e17a0deee0f (Not actually an "update docs": it buried part of the code fix)
