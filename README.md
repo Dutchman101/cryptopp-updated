@@ -5,7 +5,10 @@ Crypto++, free C++ class library of cryptographic schemes. Original repository (
 
 # Confirmed CVE fixes not found in original Crypto++ repository
 - CVE-2024-28285
-
+- CVE-2023-50981
+Relevant patches:
+https://github.com/Dutchman101/cryptopp-updated/commit/9aa07aebbdc62461c3ac32f958d7c3ab89ff6f73
+https://github.com/Dutchman101/cryptopp-updated/commit/1d029444902d1992b1899644f6208de9ddfc660d
 
 # Crypto++ Code Examples
 
